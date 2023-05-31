@@ -1,5 +1,7 @@
 # React DRF SimpleJWT App
 
+Made by KevinBruyne
+
 TL;DR: Django, DRF, DRF SimpleJWT with React Frontend sample.
 
 The purpose of this is to get you started with a secure React-Django project.
